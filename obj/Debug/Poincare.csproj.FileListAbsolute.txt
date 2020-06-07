@@ -1,0 +1,10 @@
+/home/nathan/Projects/Poincare/obj/Debug/Poincare.csprojAssemblyReference.cache
+/home/nathan/Projects/Poincare/obj/Debug/Poincare.csproj.CoreCompileInputs.cache
+/home/nathan/Projects/Poincare/bin/Debug/Poincare.exe
+/home/nathan/Projects/Poincare/bin/Debug/Poincare.pdb
+/home/nathan/Projects/Poincare/bin/Debug/OpenTK.dll
+/home/nathan/Projects/Poincare/bin/Debug/OpenTK.pdb
+/home/nathan/Projects/Poincare/bin/Debug/OpenTK.xml
+/home/nathan/Projects/Poincare/obj/Debug/Poincare.csproj.CopyComplete
+/home/nathan/Projects/Poincare/obj/Debug/Poincare.exe
+/home/nathan/Projects/Poincare/obj/Debug/Poincare.pdb

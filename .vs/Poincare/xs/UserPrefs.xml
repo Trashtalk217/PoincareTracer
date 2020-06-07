@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{9E961217-901B-4AB1-8D0D-A254E8C978C6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Poincare/surface.cs">
+    <Files>
+      <File FileName="Poincare/surface.cs" Line="1" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Poincare" expanded="True">
+            <Node name="Poincare" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True">
+                <Node name="OpenTK" selected="True" />
+              </Node>
+              <Node name="Poincare" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Poincare PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
